@@ -1,1 +1,3 @@
-# students_internship_research
+This is a research project under computer department , here I took 4+ years of clean 2000+ internship data of the students and got insights out of it , the KPI I focused on where total number of internships , student favourite month of applying as many students are lost when does most of the students apply for internships and avg duration of the internship .
+I Have added filters for easy visualisation help which are different years of study , external or internal internship and whether they have started in the even sem or the odd sem.
+Few charts which show the sum , average and a chart with a line chart induced indicate the sum of the stipend with the help of which i can say that with the recent years students are doing a very less paid internship or an unpaid internship.
