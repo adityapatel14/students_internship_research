@@ -1,3 +1,53 @@
-This is a research project under computer department , here I took 4+ years of clean 2000+ internship data of the students and got insights out of it , the KPI I focused on where total number of internships , student favourite month of applying as many students are lost when does most of the students apply for internships and avg duration of the internship .
-I Have added filters for easy visualisation help which are different years of study , external or internal internship and whether they have started in the even sem or the odd sem.
-Few charts which show the sum , average and a chart with a line chart induced indicate the sum of the stipend with the help of which i can say that with the recent years students are doing a very less paid internship or an unpaid internship.
+# Internship Trends & Recruiter Engagement Dashboard
+
+## Overview
+This project analyzes internship application and recruiter engagement data to understand trends in student hiring and internship demand. The objective is to support academic and placement teams with data-driven insights using dashboards and visual analytics.
+
+## Problem Statement
+Educational institutions often track internship data but lack structured insights for decision-making.  
+This project aims to:
+- Analyze internship demand trends
+- Understand recruiter engagement patterns
+- Support academic planning using data visualization
+
+## Dataset
+The dataset consists of internship-related records including:
+- Student applications
+- Recruiter participation
+- Internship domains
+- Time-based trends  
+
+(Source: Academic department research dataset)
+
+## Tools & Technologies
+- Microsoft Excel (Data formatting & structuring)
+- Power BI
+- GitHub
+
+## Key Analysis Performed
+- Structured and formatted raw data using Excel for analysis  
+- Performed descriptive analysis using pivot tables and charts  
+- Built interactive Power BI dashboards to visualize trends  
+
+## Dashboards & Visualizations
+Developed dashboards showing:
+- Internship demand by domain  
+- Recruiter engagement trends  
+- Application volume over time  
+- Distribution of internships across categories  
+
+## Key Insights
+- Identified high-demand internship domains  
+- Observed trends in recruiter participation  
+- Analyzed overall internship application patterns  
+
+## Academic Impact
+This analysis helps:
+- Placement teams understand hiring demand  
+- Academic departments align planning with observed trends  
+- Support data-driven decisions for internship programs  
+
+## Future Enhancements
+- Perform detailed EDA using Python  
+- Apply KDE-based distribution analysis  
+- Add predictive analysis for internship demand  
